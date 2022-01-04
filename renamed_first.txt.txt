@@ -1,5 +1,7 @@
 fvhnzsilenhv vsoejomf sdvsjmvsl
 second version 
 this is changed 
+ git mv first.txt.txt  renamed_first.txt.txt       // for rename 
+
 
 
